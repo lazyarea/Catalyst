@@ -1,0 +1,6 @@
+/home/perl5/bin/scandeps.pl
+/home/perl5/lib/perl5/Module/ScanDeps.pm
+/home/perl5/lib/perl5/Module/ScanDeps/Cache.pm
+/home/perl5/lib/perl5/Module/ScanDeps/DataFeed.pm
+/home/perl5/man/man1/scandeps.pl.1
+/home/perl5/man/man3/Module::ScanDeps.3

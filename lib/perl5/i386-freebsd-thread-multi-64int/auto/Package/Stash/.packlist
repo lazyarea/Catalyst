@@ -1,0 +1,7 @@
+/home/perl5/bin/package-stash-conflicts
+/home/perl5/lib/perl5/Package/Stash.pm
+/home/perl5/lib/perl5/Package/Stash/Conflicts.pm
+/home/perl5/lib/perl5/Package/Stash/PP.pm
+/home/perl5/man/man1/package-stash-conflicts.1
+/home/perl5/man/man3/Package::Stash.3
+/home/perl5/man/man3/Package::Stash::PP.3

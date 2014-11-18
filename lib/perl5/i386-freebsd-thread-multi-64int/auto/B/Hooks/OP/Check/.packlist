@@ -1,0 +1,5 @@
+/home/perl5/lib/perl5/i386-freebsd-thread-multi-64int/B/Hooks/OP/Check.pm
+/home/perl5/lib/perl5/i386-freebsd-thread-multi-64int/B/Hooks/OP/Check/Install/Files.pm
+/home/perl5/lib/perl5/i386-freebsd-thread-multi-64int/B/Hooks/OP/Check/Install/hook_op_check.h
+/home/perl5/lib/perl5/i386-freebsd-thread-multi-64int/auto/B/Hooks/OP/Check/Check.so
+/home/perl5/man/man3/B::Hooks::OP::Check.3

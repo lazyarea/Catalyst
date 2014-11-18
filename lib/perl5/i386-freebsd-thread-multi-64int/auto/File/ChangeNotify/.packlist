@@ -1,0 +1,14 @@
+/home/perl5/lib/perl5/File/ChangeNotify.pm
+/home/perl5/lib/perl5/File/ChangeNotify/ConfigData.pm
+/home/perl5/lib/perl5/File/ChangeNotify/Event.pm
+/home/perl5/lib/perl5/File/ChangeNotify/Watcher.pm
+/home/perl5/lib/perl5/File/ChangeNotify/Watcher/Default.pm
+/home/perl5/lib/perl5/File/ChangeNotify/Watcher/Inotify.pm
+/home/perl5/lib/perl5/File/ChangeNotify/Watcher/KQueue.pm
+/home/perl5/man/man3/File::ChangeNotify.3
+/home/perl5/man/man3/File::ChangeNotify::ConfigData.3
+/home/perl5/man/man3/File::ChangeNotify::Event.3
+/home/perl5/man/man3/File::ChangeNotify::Watcher.3
+/home/perl5/man/man3/File::ChangeNotify::Watcher::Default.3
+/home/perl5/man/man3/File::ChangeNotify::Watcher::Inotify.3
+/home/perl5/man/man3/File::ChangeNotify::Watcher::KQueue.3

@@ -1,0 +1,10 @@
+/home/perl5/bin/starman
+/home/perl5/lib/perl5/HTTP/Server/PSGI/Net/Server/PreFork.pm
+/home/perl5/lib/perl5/Plack/Handler/Starman.pm
+/home/perl5/lib/perl5/Starman.pm
+/home/perl5/lib/perl5/Starman/Server.pm
+/home/perl5/man/man1/starman.1
+/home/perl5/man/man3/HTTP::Server::PSGI::Net::Server::PreFork.3
+/home/perl5/man/man3/Plack::Handler::Starman.3
+/home/perl5/man/man3/Starman.3
+/home/perl5/man/man3/Starman::Server.3

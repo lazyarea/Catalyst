@@ -1,0 +1,14 @@
+/home/perl5/lib/perl5/Email/Abstract.pm
+/home/perl5/lib/perl5/Email/Abstract/EmailMIME.pm
+/home/perl5/lib/perl5/Email/Abstract/EmailSimple.pm
+/home/perl5/lib/perl5/Email/Abstract/MIMEEntity.pm
+/home/perl5/lib/perl5/Email/Abstract/MailInternet.pm
+/home/perl5/lib/perl5/Email/Abstract/MailMessage.pm
+/home/perl5/lib/perl5/Email/Abstract/Plugin.pm
+/home/perl5/man/man3/Email::Abstract.3
+/home/perl5/man/man3/Email::Abstract::EmailMIME.3
+/home/perl5/man/man3/Email::Abstract::EmailSimple.3
+/home/perl5/man/man3/Email::Abstract::MIMEEntity.3
+/home/perl5/man/man3/Email::Abstract::MailInternet.3
+/home/perl5/man/man3/Email::Abstract::MailMessage.3
+/home/perl5/man/man3/Email::Abstract::Plugin.3

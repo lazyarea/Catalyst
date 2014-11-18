@@ -1,0 +1,12 @@
+/home/perl5/lib/perl5/Catalyst/Plugin/Session.pm
+/home/perl5/lib/perl5/Catalyst/Plugin/Session/State.pm
+/home/perl5/lib/perl5/Catalyst/Plugin/Session/Store.pm
+/home/perl5/lib/perl5/Catalyst/Plugin/Session/Store/Dummy.pm
+/home/perl5/lib/perl5/Catalyst/Plugin/Session/Test/Store.pm
+/home/perl5/lib/perl5/Catalyst/Plugin/Session/Tutorial.pod
+/home/perl5/man/man3/Catalyst::Plugin::Session.3
+/home/perl5/man/man3/Catalyst::Plugin::Session::State.3
+/home/perl5/man/man3/Catalyst::Plugin::Session::Store.3
+/home/perl5/man/man3/Catalyst::Plugin::Session::Store::Dummy.3
+/home/perl5/man/man3/Catalyst::Plugin::Session::Test::Store.3
+/home/perl5/man/man3/Catalyst::Plugin::Session::Tutorial.3

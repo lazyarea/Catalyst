@@ -1,0 +1,14 @@
+/home/perl5/lib/perl5/Syntax/Feature/Junction.pm
+/home/perl5/lib/perl5/Syntax/Keyword/Junction.pm
+/home/perl5/lib/perl5/Syntax/Keyword/Junction/All.pm
+/home/perl5/lib/perl5/Syntax/Keyword/Junction/Any.pm
+/home/perl5/lib/perl5/Syntax/Keyword/Junction/Base.pm
+/home/perl5/lib/perl5/Syntax/Keyword/Junction/None.pm
+/home/perl5/lib/perl5/Syntax/Keyword/Junction/One.pm
+/home/perl5/man/man3/Syntax::Feature::Junction.3
+/home/perl5/man/man3/Syntax::Keyword::Junction.3
+/home/perl5/man/man3/Syntax::Keyword::Junction::All.3
+/home/perl5/man/man3/Syntax::Keyword::Junction::Any.3
+/home/perl5/man/man3/Syntax::Keyword::Junction::Base.3
+/home/perl5/man/man3/Syntax::Keyword::Junction::None.3
+/home/perl5/man/man3/Syntax::Keyword::Junction::One.3

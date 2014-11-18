@@ -1,0 +1,6 @@
+/home/perl5/lib/perl5/Catalyst/Authentication/Realm/SimpleDB.pm
+/home/perl5/lib/perl5/Catalyst/Authentication/Store/DBIx/Class.pm
+/home/perl5/lib/perl5/Catalyst/Authentication/Store/DBIx/Class/User.pm
+/home/perl5/man/man3/Catalyst::Authentication::Realm::SimpleDB.3
+/home/perl5/man/man3/Catalyst::Authentication::Store::DBIx::Class.3
+/home/perl5/man/man3/Catalyst::Authentication::Store::DBIx::Class::User.3

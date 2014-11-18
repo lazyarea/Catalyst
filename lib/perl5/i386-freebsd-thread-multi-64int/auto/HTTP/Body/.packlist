@@ -1,0 +1,12 @@
+/home/perl5/lib/perl5/HTTP/Body.pm
+/home/perl5/lib/perl5/HTTP/Body/MultiPart.pm
+/home/perl5/lib/perl5/HTTP/Body/OctetStream.pm
+/home/perl5/lib/perl5/HTTP/Body/UrlEncoded.pm
+/home/perl5/lib/perl5/HTTP/Body/XForms.pm
+/home/perl5/lib/perl5/HTTP/Body/XFormsMultipart.pm
+/home/perl5/man/man3/HTTP::Body.3
+/home/perl5/man/man3/HTTP::Body::MultiPart.3
+/home/perl5/man/man3/HTTP::Body::OctetStream.3
+/home/perl5/man/man3/HTTP::Body::UrlEncoded.3
+/home/perl5/man/man3/HTTP::Body::XForms.3
+/home/perl5/man/man3/HTTP::Body::XFormsMultipart.3

@@ -1,0 +1,11 @@
+/home/perl5/lib/perl5/i386-freebsd-thread-multi-64int/Attribute/Params/Validate.pm
+/home/perl5/lib/perl5/i386-freebsd-thread-multi-64int/Params/Validate.pm
+/home/perl5/lib/perl5/i386-freebsd-thread-multi-64int/Params/Validate/Constants.pm
+/home/perl5/lib/perl5/i386-freebsd-thread-multi-64int/Params/Validate/PP.pm
+/home/perl5/lib/perl5/i386-freebsd-thread-multi-64int/Params/Validate/XS.pm
+/home/perl5/lib/perl5/i386-freebsd-thread-multi-64int/Params/ValidatePP.pm
+/home/perl5/lib/perl5/i386-freebsd-thread-multi-64int/Params/ValidateXS.pm
+/home/perl5/lib/perl5/i386-freebsd-thread-multi-64int/auto/Params/Validate/XS/XS.bs
+/home/perl5/lib/perl5/i386-freebsd-thread-multi-64int/auto/Params/Validate/XS/XS.so
+/home/perl5/man/man3/Attribute::Params::Validate.3
+/home/perl5/man/man3/Params::Validate.3
