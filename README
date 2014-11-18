@@ -1,0 +1,13 @@
+# For INSTALL Catalyst with local::lib of perl.
+# add to .cshrc
+setenv PERL_MB_OPT '--install_base /home/perl5'
+setenv PERL_MM_OPT 'INSTALL_BASE=/home/perl5'
+setenv PERL5LIB    "/home/perl5/lib/perl5"
+setenv PATH        "/home/perl5/bin:$PATH"
+
+# Catalyst::Runtime 
+# Catalyst::Devel
+# Task::Catalyst
+# Catalyst::Model::DBIC::Schema
+# Catalyst::Model::DBIC::Plain
+
