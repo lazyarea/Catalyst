@@ -5740,3 +5740,25 @@ C<EXE_FILES: >
 
 =back
 
+=head2 Wed Nov 19 02:13:45 2014: C<Module> L<Catalyst::Model::DBIC::Plain|Catalyst::Model::DBIC::Plain>
+
+=over 4
+
+=item *
+
+C<installed into: /home/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.02>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
