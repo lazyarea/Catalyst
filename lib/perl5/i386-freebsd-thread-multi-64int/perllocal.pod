@@ -5762,3 +5762,25 @@ C<EXE_FILES: >
 
 =back
 
+=head2 Tue Nov 25 01:46:52 2014: C<Module> L<DBD::mysql|DBD::mysql>
+
+=over 4
+
+=item *
+
+C<installed into: /home/perl5/lib/perl5>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 4.028>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+
